@@ -2,6 +2,8 @@
 
 This project is a web-based dashboard for insurance company employees to manage customer data, calculate risk factors, and estimate insurance premiums based on uploaded datasets. The dashboard is designed to be visually appealing, professional, and user-friendly.
 
+<img width="1446" alt="Screenshot 2024-08-30 at 10 34 53" src="https://github.com/user-attachments/assets/56cbbd28-dcbb-47f9-a30d-4f35f6f89b27">
+
 ## Features
 
 - **Employee Login Display**: The dashboard shows the logged-in employee's ID.
